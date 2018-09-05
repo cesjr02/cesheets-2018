@@ -11,3 +11,18 @@ header.masthead .site-heading .subheading {
 .italic {
 	font-style: italic;
 }
+
+a:focus, a:hover {
+  color: #b7cbea;
+}
+
+.btn-primary {
+  background-color: #b7cbea;
+  border-color: #b7cbea;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active {
+  color: #fff;
+  background-color: #96aed2 !important;
+  border-color: #96aed2 !important;
+}
